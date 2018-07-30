@@ -1,0 +1,5 @@
+package aquarium
+
+class Aquarium {
+
+}
